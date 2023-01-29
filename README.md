@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@dansalesol
-aprenda-git /
-pull-request
-Public
-
-Fork your own copy of aprenda-git/pull-request
-
-Code
-Issues 2
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-pull-request/README.md
-@Perkles
-Perkles complementa tutorial README
-Latest commit fd7c15b Oct 31, 2022
-History
-1 contributor
-96 lines (54 sloc) 5.15 KB
 # Pull request
 
 Esse tutorial é um passo a passo prático de como enviar seu primeiro pull request, ao final você irá submeter um arquivo de _assinatura_ que ficará gravado aqui e servirá como prova de que você entendeu o processo e que fez de fato todos os passos aqui descritos.
@@ -124,20 +94,3 @@ Alguns repositórios fazem uso de templates para auxiliar as pessoas no processo
 Clique em `Create pull request` e :tada: parabéns.
 
 Seu pull request foi criado com sucesso. Em breve iremos revisar o conteúdo enviado para nos certificarmos de que o mesmo não contém nada ofensivo e iremos prosseguir com o processo de _merge_.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-pull-request/README.md at main · aprenda-git/pull-request
