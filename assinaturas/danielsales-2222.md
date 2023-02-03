@@ -1,7 +1,7 @@
 **Nome:** Daniel Sales
 
-**Comida favorita:** Espagete a bolonhesa 💖
+**Comida favorita:** Espaguete a bolonhesa 💖
 
 **Localidade:** São Paulo - Brasil
 
-**Aprendendo:** Kubernetes, Cloud, Bash, Rust e Python.  
+**Aprendendo:** Kubernetes, Cloud, Bash e Rust!!!
